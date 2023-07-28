@@ -1,1 +1,1 @@
-# Cars-Sellers this is a car seller project I created to practice my CSS, HTML and Bootstrap skills
+# Cars-Sellers this is a car seller website that I created to practice my CSS, HTML and Bootstrap skills
